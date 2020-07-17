@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Info Corona</string>
+    <string name="ringkasan">Ringkasan</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="info">Info</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="not_update">Data Riwayat Belum Di Update</string>
+    <string name="confirmed">Positif</string>
+    <string name="recovered">Sembuh</string>
+    <string name="deaths">meninggal</string>
+    <string name="world_summary_data">Data Covid-19</string>
+    <string name="from_corona">Dari Covid-19</string>
+    <string name="last_update">Last Update</string>
+    <string name="indonesia_summary_data">Data Covid-19 Indonesia</string>
+</resources>
